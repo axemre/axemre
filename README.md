@@ -2,8 +2,9 @@
 
 ### I'm good in:
 - probably nothing but never mind. 
-- 
-### some stats?:
+- nothing
+- yes
+### some stats (although there are no stats :D):
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=axemre&count_private=true&border_radius=8&icon_color=f44336&show_icons=true&theme=dark" />
 </a>
