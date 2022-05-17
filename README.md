@@ -1,5 +1,7 @@
 ### Hi there, I'm Emre 👋
 
+### <img src="https://komarev.com/ghpvc/?username=axemre&style=flat-square" alt="axemre" /><br>
+
 ### I'm good in:
 - probably nothing but never mind 
 - nothing
